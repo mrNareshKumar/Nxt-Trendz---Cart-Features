@@ -1,3 +1,12 @@
+# LIVE DEMO :-  <a href="https://nxttendzcart.ccbp.tech/">Nxt Trendz - Added Cart Features</a>
+### Login Details for Prime User
+Username: rahul </br>
+Password: rahul@2021
+
+### Login Details for non-Prime User
+Username: raja </br>
+Password: raja@2021
+
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
 ### Refer to the video below:
